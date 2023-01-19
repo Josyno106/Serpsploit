@@ -1,34 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Seo Serp Tool With Diverse Functionalities
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Description
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A Search Engine Results Page Tool (SERP) is software used to analyze how various keywords rank on google against other competitors. This app lists at least the top 100 search results from Google for a given keyword. The complete fullstack project will have more than just the Serp feature since the users can save and track data for their desired keywords. This tool targets SEO teams in small to medium companies without a very big budget to spend on expensive serp tools without the additional features offered here. 
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+# Technologies used
+- Javascript
+- React / Nextjs 
+- Data for Seo Api
+- Firebase (to be added later for user management)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+# Motivation 
+It's almost impossible to find a tool that's fine-tuned to fit a given company perfectly. There'll always be some missing features. This was and has been the case with a company I work with. I decided to take an initiative and create a tailor-made yet flexible solution that can be used not only in our company but by also other companies. 
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## How to run the Project
+- Clone this github repository
+- Open the code in your favorite editor (Vs Code for instance)
+- Run `npm install' to install all the depencies
+- Open a terminal inside the project directory and run `npm run dev' 
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## License
